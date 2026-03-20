@@ -1,0 +1,7 @@
+{
+  "name": "Holiday Magic Christmas Tree",
+  "description": "An interactive 3D Christmas tree with hand gesture controls and personalized memory photo ornaments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap');
+
+@theme {
+  --font-serif: "Cinzel", "Times New Roman", serif;
+}
